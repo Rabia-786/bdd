@@ -18,3 +18,11 @@ Feature: Guess the word
     When the Breaker joins the Maker's game
     Then the Breaker must guess a word with 8 characters
 
+ # The 3rd example has three steps
+
+  
+ # The second example has three steps
+  Scenario: Breaker joins a game
+    Given the jonny have started a game with the word "silky"
+    When the Breaker joins the Maker's game
+    Then the maker must guess a word with 8 characters
