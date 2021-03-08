@@ -19,4 +19,3 @@ to join
     Then the Breaker must guess a word with 8 characters
 
  
- 
